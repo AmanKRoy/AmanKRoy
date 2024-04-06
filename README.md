@@ -17,22 +17,44 @@
     <img src="./images/ig.png" height="30px">
 </a>
 <a href="https://twitter.com/Rk5108Kumar" target="_blank">
-    <img src="./images/x.png" height="30px">
+    <img src="./x.png" height="30px">
 </a>
 <a href="https://www.biodrop.io/RohitKumar-tech" target="_blank">
-    <img src="./images/BioDrop.png" height="28px">
+    <img src="./images/linktree.png" height="28px">
 </a>
 
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Aman Roy</h1>
+<h2 align="center">Hi 👋, I'm Aman Roy
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=Friendly+Neighbourhood;Flutter+Developer;)](https://git.io/typing-svg)
+
+</h2>
+
+
+<p>
+
+    
+</p> 
+
+- 🎓 Freshmen at SRMIST Chennai, Pursuing B.Tech in CSE.
+
+- 🌱 I’m currently learning **C++**
+
+- 💬 Always up for engaging conversations on tech - let's connect!
+
+- 📄 Know about my experiences form [My Resume](https://drive.google.com/file/d/13aGt6YEz7HTIpjVivP7sAbLaIk0m06hS/view?usp=sharing)
+
+- ⚡ Fun fact: I am head of the dostoevsky Fan Club !!
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmanKRoy)
 
-I am [Aman Kumar Roy](https://github.com/AmanKRoy) currently pursuing B. Tech CSE core at SRM University.
-
-## Streaks
+<h1> Streaks:
+<p></p>
+</h1>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmanKRoy&theme=dark&border_radius=9)](https://git.io/streak-stats)
 
