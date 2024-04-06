@@ -13,7 +13,7 @@
 <a href="https://www.hackerrank.com/profile/rohitkumar620200" target="_blank">
     <img src="./images/hackerRank.png" height="30px">
 </a>
-<a href="https://www.instagram.com/aman.k.roy/" target="_blank">
+<a href="https://www.instagram.com/_aman.k.roy_/" target="_blank">
     <img src="./images/ig.png" height="30px">
 </a>
 <a href="https://twitter.com/Rk5108Kumar" target="_blank">
