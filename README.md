@@ -44,7 +44,7 @@
 
 - 💬 Always up for engaging conversations on tech - let's connect!
 
-- 📄 Know about my experiences form [My Resume](https://drive.google.com/file/d/13aGt6YEz7HTIpjVivP7sAbLaIk0m06hS/view?usp=sharing)
+- 📄 Know about my experiences form [My Resume](https://drive.google.com/file/d/1I_gnTLoJK9DLcewJVIv8CZve6m5IQU8I/view?usp=drive_link)
 
 - ⚡ Fun fact: I am head of the dostoevsky Fan Club !!
 
