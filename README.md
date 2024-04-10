@@ -10,16 +10,16 @@
 <a href="https://www.linkedin.com/in/amankroy/" target="_blank">
     <img src="./images/linkedin.png" height="30px">
 </a>
-<a href="https://www.hackerrank.com/profile/rohitkumar620200" target="_blank">
+<a href="https://www.hackerrank.com/profile/ak2618" target="_blank">
     <img src="./images/hackerRank.png" height="30px">
 </a>
 <a href="https://www.instagram.com/_aman.k.roy_/" target="_blank">
     <img src="./images/ig.png" height="30px">
 </a>
-<a href="https://twitter.com/Rk5108Kumar" target="_blank">
+<a href="https://x.com/Aman_K_Roy" target="_blank">
     <img src="./x.png" height="30px">
 </a>
-<a href="https://www.biodrop.io/RohitKumar-tech" target="_blank">
+<a href="https://linktr.ee/AmanKRoy" target="_blank">
     <img src="./images/linktree.png" height="28px">
 </a>
 
@@ -27,16 +27,9 @@
 
 
 <h2 align="center">Hi 👋, I'm Aman Roy
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=Friendly+Neighbourhood;Flutter+Developer;)](https://git.io/typing-svg)
-
-</h2>
-
-
-<p>
-
     
-</p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239333F7&center=true&lines=Your+Friendly+Neighbourhood;Flutter+Developer;)](https://git.io/typing-svg)
+</h2>
 
 - 🎓 Freshmen at SRMIST Chennai, Pursuing B.Tech in CSE.
 
@@ -58,8 +51,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmanKRoy&theme=dark&border_radius=9)](https://git.io/streak-stats)
 
-## Skills
+## Lanugages and Tools
 
 These are some of the skills I know and am exploring more options to enhance my abilities to stand out in this fast changing world.
 
-[![My Skills](https://skillicons.dev/icons?i=python,dart,c,flutter,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,dart,flutter,firebase,git,figma,notion,vscode,androidstudio&theme=light)](https://skillicons.dev)
