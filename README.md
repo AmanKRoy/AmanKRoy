@@ -31,9 +31,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239333F7&center=true&lines=Your+Friendly+Neighbourhood;Flutter+Developer;)](https://git.io/typing-svg)
 </h2>
 
-- 🎓 Freshmen at SRMIST Chennai, Pursuing B.Tech in CSE.
+- 🎓 Sophomore at SRMIST Chennai, Pursuing B.Tech in CSE.
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 💬 Always up for engaging conversations on tech - let's connect!
 
